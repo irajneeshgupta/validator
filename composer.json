@@ -9,8 +9,8 @@
 		"phpunit/phpunit": "^4.8"
 	},
 	"autoload": {
-		"psr-0" : {
-			"Ced\\Validator" : "src"
+		"psr-4" : {
+			"Ced\\Validator\\" : "src"
 		}
 	},
     "autoload-dev": {
