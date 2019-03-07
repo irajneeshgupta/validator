@@ -9,13 +9,13 @@ A PHP class for checking EAN8, EAN13, UPC and GTIN barcodes are valid (based on 
 [![PHP 7 ready](http://php7ready.timesplinter.ch/milindsingh/validator/master/badge.svg)](https://travis-ci.org/milindsingh/validator)
 
 
-https://packagist.org/packages/milindsingh/validator
+https://packagist.org/packages/cedcommerce/validator
 
 _Note: This project currently does nothing other than have some validation functions. I expect to add additional functionality in the future._
 
 ## Installation (with composer)
 ```
-composer require milindsingh/validator
+composer require cedcommerce/validator
 ```
 
 ## Usage
