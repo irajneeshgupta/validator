@@ -13,7 +13,8 @@
 			"Ced\\Validator\\" : "src"
 		}
 	},
-    "autoload-dev": {
+	"version":"2.2.1",
+    	"autoload-dev": {
 	  "psr-4": {
 		"Ced\\Validator\\Tests\\": "tests"
 	  }
